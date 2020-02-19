@@ -9672,3 +9672,37 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* LinkedIn */
+.fa-linkedin {
+  background: #0E76A8;
+  color: white;
+}
+
+/* GitLab */
+.fa-gitlab {
+  background: #FC6D27;
+  color: white;
+}
+
+/* Email */
+.fa-envelope {
+  background: #D3D3D3;
+  color: white;
+}
